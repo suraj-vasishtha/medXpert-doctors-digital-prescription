@@ -1,0 +1,97 @@
+{
+  "hash": "272d9b6d",
+  "configHash": "5ec0cf74",
+  "lockfileHash": "88cc6e34",
+  "browserHash": "ce828a7d",
+  "optimized": {
+    "react": {
+      "src": "../../react/index.js",
+      "file": "react.js",
+      "fileHash": "c8f780bd",
+      "needsInterop": true
+    },
+    "react-dom": {
+      "src": "../../react-dom/index.js",
+      "file": "react-dom.js",
+      "fileHash": "cff7fea2",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "7c299413",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "04eaa018",
+      "needsInterop": true
+    },
+    "dexie": {
+      "src": "../../dexie/dist/modern/dexie.mjs",
+      "file": "dexie.js",
+      "fileHash": "b12d6f4a",
+      "needsInterop": false
+    },
+    "fuse.js": {
+      "src": "../../fuse.js/dist/fuse.mjs",
+      "file": "fuse__js.js",
+      "fileHash": "5a7e4f65",
+      "needsInterop": false
+    },
+    "jspdf": {
+      "src": "../../jspdf/dist/jspdf.es.min.js",
+      "file": "jspdf.js",
+      "fileHash": "f334b5a0",
+      "needsInterop": false
+    },
+    "lucide-react": {
+      "src": "../../lucide-react/dist/esm/lucide-react.js",
+      "file": "lucide-react.js",
+      "fileHash": "3da9f8b0",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "2a052c2a",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "b9ef4272",
+      "needsInterop": false
+    },
+    "tesseract.js": {
+      "src": "../../tesseract.js/src/index.js",
+      "file": "tesseract__js.js",
+      "fileHash": "99308960",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "html2canvas.esm-X27G22KQ": {
+      "file": "html2canvas__esm-X27G22KQ.js"
+    },
+    "purify.es-5ZZTCDO2": {
+      "file": "purify__es-5ZZTCDO2.js"
+    },
+    "index.es-I3H2E4XD": {
+      "file": "index__es-I3H2E4XD.js"
+    },
+    "chunk-D7ZASVPN": {
+      "file": "chunk-D7ZASVPN.js"
+    },
+    "chunk-EJTTOCY5": {
+      "file": "chunk-EJTTOCY5.js"
+    },
+    "chunk-YHPANKLD": {
+      "file": "chunk-YHPANKLD.js"
+    },
+    "chunk-PR4QN5HX": {
+      "file": "chunk-PR4QN5HX.js"
+    }
+  }
+}
